@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">-🔭 I’m working as Software Enginer in Kranio<br>-  📚 I'm currently learning Typescript, Unit Testing<br></p>
+<p align="left">-🔭 I’m working as Data Enginer in Kranio<br>-  📚 I'm currently learning Typescript, Unit Testing<br></p>
 
 ###
 
